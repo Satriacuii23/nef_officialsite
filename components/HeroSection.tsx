@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const HeroSection: React.FC = () => {
   return (
     <section className="relative h-screen flex flex-col items-center justify-center bg-cover bg-center bg-no-repeat overflow-hidden"
-      style={{ backgroundImage: `url('/images/hero-bg.jpg')` }}>
+      style={{ backgroundImage: `url('/bg.jpg')` }}>
       
       {/* Background Animated Circles */}
       <div className="absolute inset-0 overflow-hidden">
