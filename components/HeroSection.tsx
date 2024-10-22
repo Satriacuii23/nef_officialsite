@@ -32,8 +32,8 @@ const HeroSection: React.FC = () => {
 
       {/* Navbar */}
       <div className="absolute top-0 w-full flex justify-between items-center px-6 py-4 md:px-8">
-        <h1 className="text-black text-lg font-bold">NEF TECH - ID</h1>
-        <nav className="hidden md:flex space-x-8 text-black">
+        <h1 className="text-white text-lg font-bold">NEF TECH - ID</h1>
+        <nav className="hidden md:flex space-x-8 text-white">
           <a href="# " className="hover:underline">BERANDA</a>
           <a href="/AboutSection" className="hover:underline">TENTANG KAMI</a>
           <a href="/ContactSection" className="hover:underline">KONTAK KAMI</a>
