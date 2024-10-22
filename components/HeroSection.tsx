@@ -58,7 +58,7 @@ const HeroSection: React.FC = () => {
         className="relative z-10 text-center max-w-2xl mx-auto px-4"
       >
         <span className="text-4xl font-bold text-black"> TRANSFORMASI DIGITAL</span>
-        <span className="text-6xl font-extrabold text-rose-800"> untuk UMKM </span>
+        <span className="text-6xl font-extrabold text-white"> untuk UMKM </span>
         <p className="text-md sm:text-lg md:text-xl text-black mt-4 mb-10">
           Dukung perkembangan UMKM dengan solusi digital terdepan. Raih kesuksesan dengan memanfaatkan teknologi untuk memperluas pasar dan meningkatkan efisiensi.
         </p>
