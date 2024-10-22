@@ -35,7 +35,7 @@ const HeroSection: React.FC = () => {
       <div className="absolute top-0 w-full flex justify-between items-center px-6 py-4 md:px-8">
         {/* Tambahkan logo di sebelah kiri teks NEF TECH - ID */}
         <div className="flex items-center space-x-3">
-          <img src="/logo.png" alt="Logo" className="w-50 h-20 bg-rose-800 bg-opacity-90" /> {/* Logo */}
+          <img src="/logo2.png" alt="Logo" className="w-50 h-20 bg-rose-800 bg-opacity-90" /> {/* Logo */}
           <h1 className="text-white text-lg font-bold"></h1>
         </div>
         <nav className="hidden md:flex space-x-8 text-white">
